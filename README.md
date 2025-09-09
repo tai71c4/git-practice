@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Đỗ Thành Nhân Tài, MSSV 225101.
+Đây là README từ nhánh main.
